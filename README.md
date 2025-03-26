@@ -15,13 +15,4 @@ Hi, I'm Ali Alabudib, a senior Software Engineering student at KFUPM with a stro
 
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alialabudib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<br><br>
-<a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialabudib&theme=dark">
-</a>
-<a href="https://github.com/ankitwarbhe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alialabudib&show_icons=true&theme=dark&line_height=30" alt="Ali's github stats"/>
-</a>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
