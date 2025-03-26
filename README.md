@@ -17,7 +17,7 @@ Hi, I'm Ali Alabudib, a senior Software Engineering student at KFUPM with a stro
 
 <br><br>
 <a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialabudib&theme=dark">
 </a>
 <a href="https://github.com/ankitwarbhe">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alialabudib&show_icons=true&theme=dark&line_height=30" alt="Ali's github stats"/>
