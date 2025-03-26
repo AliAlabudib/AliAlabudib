@@ -12,7 +12,4 @@ Hi, I'm Ali Alabudib, a senior Software Engineering student at KFUPM with a stro
 ![](https://nirzak-streak-stats.vercel.app/?user=AliAlabudib&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlabudib&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=AliAlabudib&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alialabudib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
