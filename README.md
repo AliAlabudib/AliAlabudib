@@ -1,4 +1,4 @@
-# 👋 About Me:
+## 👋 About Me:
 Hi, I'm Ali Alabudib, a senior Software Engineering student at KFUPM with a strong passion for UI/UX and front-end development for both web and mobile applications. I'm currently learning and improving my skills, working toward becoming a full-stack developer who builds intuitive and efficient digital experiences.
 
 ## 💻 What I Do:
